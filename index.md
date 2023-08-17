@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Jay "Yehuda" Berg
+title: Jay Berg
 subtitle: Sidepit
 ---
 
-
-Husband / Father / C++ Developer / Student of Finanical Markets / Fantasy Football Player / Bitcoiner 
+Husband - Father - Software Developer - Student of Financial Markets - Fantasy Football Player - Bitcoiner 
