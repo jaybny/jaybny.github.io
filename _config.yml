@@ -22,9 +22,9 @@ author: Jay Berg
 navbar-links:
   About Me: "aboutme"
   Resume: "resume"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  White Papers:
+    - Sidepit: "sidepit
+    - Satoshi Fantasy: "satoshi-fantasy"
 
 ################
 # --- Logo --- #
