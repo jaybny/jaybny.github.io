@@ -54,15 +54,14 @@ social-network-links:
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   github: jaybny
   twitter: jaybny
+  medium: jaybny
 #  patreon: DeanAttali
 #  youtube: c/daattali
-  medium: jaybny
 #  reddit: yourname
   linkedin: jaybny
   facebook: jaybny
-
 #  xing: yourname
- stackoverflow: jaybny
+  stackoverflow: jaybny
 #  snapchat: deanat78
 #  instagram: deanat78
 #  spotify: yourname
@@ -70,8 +69,8 @@ social-network-links:
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
- telegram: jaybny
- calendly: jaybny
+  telegram: jaybny
+  calendly: jaybny
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
