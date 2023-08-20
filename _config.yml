@@ -22,9 +22,9 @@ author: Jay Berg
 navbar-links:
   Resume: "resume"
   White Papers:
-    - Home: "index"
     - Sidepit: "sidepit"
     - Satoshi Fantasy: "satoshifantasy"
+  Blog: "https://blog.protoblock.com/"
 
 ################
 # --- Logo --- #
