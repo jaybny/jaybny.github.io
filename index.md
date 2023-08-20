@@ -4,21 +4,18 @@ title: Jay Berg
 subtitle: Sidepit
 ---
 
-At my core, I'm a dedicated husband and father. Professionally, I'm a GenX software developer with an unwavering passion for the intricacies of financial markets. When I'm not engrossed in code or exploring the depths of Bitcoin, I'm strategizing my next fantasy football move.
+At my core, I'm a dedicated husband and father. Professionally, I'm a GenX software developer with a strong passion for  financial markets. When I'm not diving into code or exploring the intricacies of Bitcoin, I'm planning my next fantasy football move.
 
 ## From Brooklyn to Bitcoin: Jay Berg's Odyssey
+Growing up in Brooklyn, NY, my interest in finance was sparked by my father, Milton Berg, who impressively predicted the '87 Black Monday crash. This event inspired me to create my own trading system during my early years, introducing me to electronic trading alongside pioneers like Datek Securities.
 
-Growing up in Brooklyn, NY, my interest in finance was sparked by my father, Milton Berg, and his uncanny prediction of the Black Monday crash in '87. This event propelled me to code my own trading system during my formative years, ushering me into the world of electronic trading alongside early innovators like Datek Securities.
+In '97, I honed my skills at Bloomberg. Immersed in a dynamic environment with sharp traders, I deepened my understanding of trading, coding, and the constant pursuit of market advantages. While I initially thought math was the key to trading, I realized it's just one part of the puzzle.
 
-In '97, Bloomberg was my proving ground. Immersed in a dynamic environment filled with astute traders, I deepened my understanding of trading, coding, and the relentless pursuit of market advantages. Initially, I believed math held the keys to the market, but soon grasped that it was merely a piece of a larger puzzle.
+My path led me to Chicago, the epicenter of high-frequency trading. It was in this bustling city that I met my now wife. The trading industry was rapidly shifting from traditional trading floors to the digital arms race. Finally, at Fortress Investment Group, I experienced the fast-paced evolution of trading: from speed to nuanced Alpha strategies.
 
-My journey led me to Chicago, the heartland of high-frequency trading. The industry was rapidly transitioning from the tangible energy of trading floors to the digital frontier. Finally, at Fortress Investment Group, I witnessed and participated in the frenetic evolution of trading: from the primal race for speed to the nuanced chase for Alpha.
+Enter Bitcoin. After reading the whitepaper, I was all in immediately. This spurred me to write the "Satoshi Fantasy" [white paper](satoshifantasy) in 2014, and [code](https://github.com/protoblock/protoblock) an innovative blockchain: FantasyBit. Its goal? Transforming fantasy football skills into a digital asset and using it in a decentralized fantasy futures exchange.
 
-Enter Bitcoin. After poring over the whitepaper, I recognized its potential immediacy. This revelation spurred me to author the "Satoshi Fantasy" [white paper](satoshifantasy) in 2014, and to [code](https://github.com/protoblock/protoblock) an innovative blockchain: [FantasyBit](https://fantasybit.com/). Its aim? To transform fantasy football skills into a digital asset, and leverage it a decentralized fantasy futures exchange. 
+Despite the promise, challenges arose, like front-running. I persevered, conceived a solution, secured a patent, and in 2021, introduced the [Sidepit white paper.](https://jaybny.com/sidepit/) Currently, I'm working on making the Sidepit bitcoin exchange a reality, continuing my pursuit of financial innovation.
 
-Despite the promise, challenges arose, like front-running. Yet, adversity fosters innovation. I conceptualized a solution, earned a patent, and in 2021, unveiled the [Sidepit white paper](https://jaybny.com/sidepit/). Currently, I'm in the midst of bringing the Sidepit exchange to life, continuing my relentless pursuit of financial innovation.
-
-On a personal note, a moment of pride: I was the first to share the Bitcoin ticker symbol on Twitter: [`$BTCUSD`](https://twitter.com/jaybny/status/233992704994971648). 
-As Sidepit becomes into reality, I find myself at a thrilling juncture, merging decades of financial acumen with the revolutionary promise of decentralized technology.
-
+On a personal note, a moment of pride: I was the first to share the Bitcoin ticker symbol on Twitter: $BTCUSD. As Sidepit comes to life, I'm excited to merge my financial experience with the promise of decentralized technology.
 
