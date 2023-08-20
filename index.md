@@ -4,19 +4,21 @@ title: Jay Berg
 subtitle: Sidepit
 ---
 
-A dedicated husband and father first, I'm a GenX software developer with a passion for understanding the intricacies of financial markets. When I'm not diving deep into code or Bitcoin, you'll find me strategizing my next move in fantasy football.
+At my core, I'm a dedicated husband and father. Professionally, I'm a GenX software developer with an unwavering passion for the intricacies of financial markets. When I'm not engrossed in code or exploring the depths of Bitcoin, I'm strategizing my next fantasy football move.
+
+## From Brooklyn to Bitcoin: Jay Berg's Odyssey
+
+Growing up in Brooklyn, NY, my interest in finance was sparked by my father, Milton Berg, and his uncanny prediction of the Black Monday crash in '87. This event propelled me to code my own trading system during my formative years, ushering me into the world of electronic trading alongside early innovators like Datek Securities.
+
+In '97, Bloomberg was my proving ground. Immersed in a dynamic environment filled with astute traders, I deepened my understanding of trading, coding, and the relentless pursuit of market advantages. Initially, I believed math held the keys to the market, but soon grasped that it was merely a piece of a larger puzzle.
+
+My journey led me to Chicago, the heartland of high-frequency trading. The industry was rapidly transitioning from the tangible energy of trading floors to the digital frontier. Finally, at Fortress Investment Group, I witnessed and participated in the frenetic evolution of trading: from the primal race for speed to the nuanced chase for Alpha.
+
+Enter Bitcoin. After poring over the whitepaper, I recognized its potential immediacy. This revelation spurred me to author the "Satoshi Fantasy" [white paper](satoshifantasy) in 2014, and to [code](https://github.com/protoblock/protoblock) an innovative blockchain: [FantasyBit](https://fantasybit.com/). Its aim? To transform fantasy football skills into a digital asset, and leverage it a decentralized fantasy futures exchange. 
+
+Despite the promise, challenges arose, like front-running. Yet, adversity fosters innovation. I conceptualized a solution, earned a patent, and in 2021, unveiled the [Sidepit white paper](https://jaybny.com/sidepit/). Currently, I'm in the midst of bringing the Sidepit exchange to life, continuing my relentless pursuit of financial innovation.
+
+On a personal note, a moment of pride: I was the first to share the Bitcoin ticker symbol on Twitter: [`$BTCUSD`](https://twitter.com/jaybny/status/233992704994971648). 
+As Sidepit becomes into reality, I find myself at a thrilling juncture, merging decades of financial acumen with the revolutionary promise of decentralized technology.
 
 
-## From Brooklyn to Bitcoin and Beyond: Jay Berg's Journey
-
-Born and raised in Brooklyn, NY, my journey through the intricate tapestry of financial markets began when I saw my father, Milton Berg, predict the Black Monday crash of 1987. That event drove my 12-year-old self to code my first automated trading system, setting the stage for my deep dive into electronic trading with trailblazers like Datek Securities.
-
-By '96, at Bloomberg, I was amidst a talented mix of traders, sharpening my coding skills and delving into the intricacies of quant models. While I dreamt of beating the market, it became evident that pure math, despite its might, wasn't the silver bullet to alpha.
-
-As I ventured to Chicago, I was swept into the tumultuous world of high-frequency trading, transitioning from the vibrant energy of trading floors to the precision of digital platforms. My tenure at Fortress Investment Group was a roller-coaster of emotions, from harnessing the raw power of speed for trading advantages to chasing the elusive Alpha.
-
-Then came Bitcoin, a revelation after just one glance at its white paper. It wasn't long before I penned the "Satoshi Fantasy" white paper and undertook the ambitious task of coding an entirely new blockchain, "Fantasybit". Crafted in C++, Fantasybit wasn't just another blockchain—it was a novel idea that tokenized fantasy football skill and paved the way for a fantasy football futures exchange.
-
-However, challenges arose. Confronted with issues like front-running, I innovated a solution, secured the patent, and in 2021, articulated this vision in the Sidepit white paper. Now, as I stand on the brink of launching the Sidepit exchange, I'm merging decades of financial insights, groundbreaking technological advancements, and the pioneering spirit of decentralized technology.
-
-Join me on this adventure, where the past empowers the future.
